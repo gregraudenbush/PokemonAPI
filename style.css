@@ -1,0 +1,10 @@
+*{
+    background-color: yellow;
+}
+.pokeimg{
+    display: inline-block;
+    vertical-align: top;
+    /*border-style: solid;
+    border-color: black;*/
+
+}
